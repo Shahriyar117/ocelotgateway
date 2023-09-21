@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{09540954-9B69-4B41-8853-3FF3AF454819}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OcelotGateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../UserAPI/Program.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="../ProductAPI/appsettings.json" Line="13" Column="1" />
+      <File FileName="../UserAPI/Program.cs" Line="28" Column="22" />
+      <File FileName="../UserAPI/appsettings.json" Line="13" Column="1" />
+      <File FileName="../UserAPI/Data/DbContextClass.cs" Line="4" Column="23" />
+      <File FileName="../UserAPI/Models/User.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OcelotGateway" expanded="True">
+            <Node name="OcelotGateway" expanded="True" />
+            <Node name="ProductAPI" expanded="True" />
+            <Node name="UserAPI" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
